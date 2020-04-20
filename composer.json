@@ -30,10 +30,10 @@
         }
     ],
     "require": {
-        "php": "^7.1.*",
-        "illuminate/config": "^5.7.*",
-        "illuminate/database": "^5.7.*",
-        "illuminate/support": "^5.7.*"
+        "php": ">=7.1",
+        "illuminate/config": "5.7.*",
+        "illuminate/database": "5.7.*",
+        "illuminate/support": "5.7.*"
     },
     "require-dev": {
         "ext-json": "*",
